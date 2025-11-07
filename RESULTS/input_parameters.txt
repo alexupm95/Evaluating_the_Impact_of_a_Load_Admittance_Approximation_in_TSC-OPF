@@ -1,0 +1,15 @@
+******** Simulation Input Parameters ********
+==============================================
+Case:                         9bus
+Base MVA:                     100.0
+δ tolerance (deg):            [-100.0; +100.0]
+Synchronous frequency (Hz):   50.0
+Fault bus:                    7
+Tripped circuits:             6
+Simulation start time (s):    0.0
+Simulation end time (s):      5.0
+Time step (s):                0.01
+Fault start time (s):         0.01
+Fault lasts (s):              0.3
+Fault is cleared at time (s): 0.31
+==============================================
