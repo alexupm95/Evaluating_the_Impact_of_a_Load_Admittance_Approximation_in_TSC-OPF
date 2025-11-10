@@ -33,17 +33,3 @@ Pkg.add("Trapz")
   - 📁[`RESULTS/Transient_Stability`](./RESULTS/Transient_Stability/) stores the results of the dynamic simulation, e.g., rotor angle, speed deviation trajectories, etc, for the during- and post-fault conditions
 
 ---
-If you find something helpful or use this code for your own work, please cite this paper:
-
-Coelho, A. J. da C., Hernandez, A., & Badesa, L. (2025). Evaluating the impact of a load admittance approximation in Transient Stability-Constrained Optimal Power Flow. doi:10.48550/arXiv.2511.05116
-
-```bib
-@misc{coelho2025evaluatingimpactloadadmittance,
-      title={Evaluating the Impact of a Load Admittance Approximation in Transient Stability-Constrained Optimal Power Flow}, 
-      author={Alex Junior da Cunha Coelho and Araceli Hernandez and Luis Badesa},
-      year={2025},
-      eprint={2511.05116},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2511.05116}, 
-}
