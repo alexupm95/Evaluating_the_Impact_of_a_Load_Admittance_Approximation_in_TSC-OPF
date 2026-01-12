@@ -32,4 +32,8 @@ Pkg.add("Trapz")
   - 📁[`RESULTS/Admittance_Matrices`](./RESULTS/Admittance_Matrices/) stores the admittance matrices in the pre-, during-, and post-fault conditions
   - 📁[`RESULTS/Transient_Stability`](./RESULTS/Transient_Stability/) stores the results of the dynamic simulation, e.g., rotor angle, speed deviation trajectories, etc, for the during- and post-fault conditions
 
+## Acknowledgements
+
+This work was supported by **MICIU/AEI/10.13039/501100011033** and **ERDF/EU** under grants **PID2023-150401OA-C22 and PID2022-141609OB-I00**, as well as by the Madrid Government (Comunidad de Madrid-Spain) under the Multiannual Agreement 2023-2026 with Universidad Politécnica de Madrid, `Line A - Emerging PIs' (grant number: **24-DWGG5L-33-SMHGZ1**).
+
 ---
