@@ -35,13 +35,12 @@ Pkg.add("Trapz")
 ## Acknowledgements
 
 This work was supported by **MICIU/AEI/10.13039/501100011033** and **ERDF/EU** under grants **PID2023-150401OA-C22** and **PID2022-141609OB-I00**, as well as by the Madrid Government (Comunidad de Madrid-Spain) under the Multiannual Agreement 2023-2026 with Universidad Politécnica de Madrid, `Line A - Emerging PIs' (grant number: **24-DWGG5L-33-SMHGZ1**).
-      <figure style="display:inline-block; margin:10px; text-align:center;">
-       <img src="./utils/logo_MICIU_AEI.png" alt="Step 23" style="width:300px; height:350px; object-fit:contain; display:block;">
-       <figcaption style="text-align:center; margin-top:8px; display:block;"><em>(a) Open With</em></figcaption>
-     </figure>
-     <figure style="display:inline-block; margin:10px; text-align:center;">
-       <img src="./utils/logo_CM.png" alt="Step 24" style="width:400px; height:350px; object-fit:contain; display:block;">
-       <figcaption style="text-align:center; margin-top:8px; display:block;"><em>(b) Markdown Preview</em></figcaption>
-     </figure>
+
+<figure style="display:inline-block; margin:10px; text-align:center;">
+   <img src="./utils/logo_MICIU_AEI.png" style="width:300px; height:350px; object-fit:contain; display:block;">
+</figure>
+<figure style="display:inline-block; margin:10px; text-align:center;">
+   <img src="./utils/logo_CM.png" style="width:400px; height:350px; object-fit:contain; display:block;">
+</figure>
 
 ---
